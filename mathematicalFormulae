@@ -1,0 +1,32 @@
+Arithmetic Progression
+
+    2,4,6,8,10.......
+    let's assume the first term is "a"
+    and the difference is "d"
+    1st => a
+    2nd => a+d
+    3rd => a+2n
+    .
+    .
+    .
+    .
+    nth => a+(n-1)d
+
+    Also, sum = n/2 * (2*a + (n-1)*d)
+
+
+Geometric Pregression
+
+    2,4,8,16.......
+    let's assume the first term is "a"
+    and the ration is "r"
+    1st => a
+    2nd => a*r
+    3rd => a*r^2
+    .
+    .
+    .
+    .
+    nth => a*r^(n-1)
+
+    Also, sum = (a*(1-r)^n)/(1-r)
