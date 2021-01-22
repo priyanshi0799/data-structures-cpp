@@ -41,3 +41,17 @@ Quadratic Equations
         D = 0 => two equal roots
         D > 0 => two distinct roots
     x = (-b +- /(b^2 - 4*a*c))/2*a
+
+Mean 
+
+    It is found by adding up all of the given data and dividing by the number of data entries
+    Eg => 4,1,7
+          (4+1+7)/3
+          4
+
+Median
+
+    It is the middle most number found by ordering all data points
+    Eg => 4,1,7
+          1,4,7
+          4
