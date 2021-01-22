@@ -30,3 +30,14 @@ Geometric Pregression
     nth => a*r^(n-1)
 
     Also, sum = (a*(1-r)^n)/(1-r)
+
+Quadratic Equations
+
+    ax^2 + bx + c = 0
+
+    Maximum no. of roots => 2
+    D = b^2 - 4*a*c
+        D < 0 => Imaginary roots
+        D = 0 => two equal roots
+        D > 0 => two distinct roots
+    x = (-b +- /(b^2 - 4*a*c))/2*a
